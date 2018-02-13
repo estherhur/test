@@ -13,9 +13,9 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-#Regression example
+# Awesome Regression example
 
-##Simple text
+## Simple text
 
 This is a simple vibariate example
 
